@@ -10,6 +10,8 @@ I am in high school pursuing a career with an actively failing economy.
 
 Okay bye now.
 
-Want to learn more about pathetic Lexxie? Check out my <a href="https://samdan9.github.io/Lexicon-Lexxie/">Website!</a>
+Want to learn more about me? Check out my <a href="https://samdan9.github.io/Lexicon-Lexxie/">Website!</a>
 
 Okay seriously, please leave now and do something better with your life.
+
+Meow :3
