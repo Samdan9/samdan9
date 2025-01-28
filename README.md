@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I am real. (I think)
 
-<!--
-**Samdan9/samdan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lexxie, (she/her).
 
-Here are some ideas to get you started:
+I know where you live (probably).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I make lame stuff (mainly at school) because I'm bored and I have nothing better to do with my life.
+
+I am in high school pursuing a career with an actively failing economy.
+
+Okay bye now.
+
+Want to learn more about pathetic Lexxie? Check out my <a href="https://samdan9.github.io/Lexicon-Lexxie/">Website!</a>
+
+Okay seriously, please leave now and do something better with your life.
