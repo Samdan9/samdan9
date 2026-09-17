@@ -12,11 +12,11 @@ Github will default to allowing public repositories to be scanned and used to tr
 ### What does this mean?
 
 All of my projects will be set to private, meaning all of my websites will have to be taken down as a result. However my main website will have to stay online through Github (sort of)
-If anything, I plan on just making it redirect to a new Gitlab website, which brings me to my next subject...
+If anything, I plan on just making it redirect to a new Codeberg website, which brings me to my next subject...
 
 ### Where will you go?
 
-I will go to Gitlab, and I will post all my projects there. I will post the link here soon, so stay tuned. I love y'all, and thank you for the support.
+I will go to Codeberg, and I will post all my projects there. I will post the link here soon, so stay tuned. I love y'all, and thank you for the support.
 
 ---
 
