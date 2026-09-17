@@ -1,3 +1,5 @@
+<a href="https://codeberg.org/Samdan9">Find me here!</a>
+
 ### Hi, I am real. (I think)
 
 My name is Lexxie, (she/her).
@@ -31,6 +33,6 @@ I mean, all of my current projects that I have currently on the site will stay u
 
 ### Where will you go?
 
-I will go to Codeberg, and I will post all my projects there. I will post the link here soon, so stay tuned. I love y'all, and thank you for the support.
+I will go to Codeberg, and I will post all my projects there. I love y'all, and thank you for the support.
 
 ---
